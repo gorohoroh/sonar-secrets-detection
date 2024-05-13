@@ -1,0 +1,16 @@
+{
+  "name": "github-docs",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "googleapis": "^135.0.0",
+    "@octokit/core": "^6.1.1"
+  }
+}
